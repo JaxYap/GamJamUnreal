@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yap_j/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/yap_j/OneDrive/Documents/Unreal Projects/MyProject/Content/Blueprint/BP_Enemy.uasset",
+				"C:/Users/yap_j/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SU/BNBMAWESGUZ3V1X1AARB1B.uasset",
+				"C:/Users/yap_j/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IB/RTT3TYRYXMYOSWO9UDKUVU.uasset",
+				"C:/Users/yap_j/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/2X/B0607DVALSXEETH3O2TP0D.uasset",
+				"C:/Users/yap_j/OneDrive/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/yap_j/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LK/UV38USWOOUQQVC8XWMH5D8.uasset",
+				"C:/Users/yap_j/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CK/6F9ODS9R0R1F14OEFQISPW.uasset"
+			]
+		}
+	]
+}
